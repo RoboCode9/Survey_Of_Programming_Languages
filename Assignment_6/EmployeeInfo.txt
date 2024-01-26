@@ -1,0 +1,16 @@
+Anna
+Alaniz
+A001232
+2001
+25500
+Lydia
+Bean
+A001233
+2002
+50000
+Jorge
+Botello
+A001234
+2005
+38000
+
